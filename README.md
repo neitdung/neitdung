@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently learning blockchain and Cosmos
+- 🔭 I’m currently learning blockchain and working in Cosmos
 - 📫 How to reach me: <a href="mailto:neitdung@gmail.com">neitdung@gmail.com</a>
 
 <p>
